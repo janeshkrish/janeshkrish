@@ -3,13 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=240&section=header&text=Janesh%20Krishna&fontSize=45&fontColor=00F7FF&animation=twinkling&fontAlignY=35" />
 </p>
-
-<!-- ===================== CYBER BACKGROUND GIF ===================== -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
-</p>
-
 <!-- ===================== TYPING INTRO ===================== -->
 
 <p align="center">
@@ -60,14 +53,6 @@ Currently Learning: System Design & Advanced Backend
 
 ---
 
-# 🌌 Animated GitHub Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeshkrish&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
-</p>
-
----
-
 # 📈 3D Contribution Summary
 
 <p align="center">
@@ -80,14 +65,6 @@ Currently Learning: System Design & Advanced Backend
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/janeshkrishna?theme=dark&font=Fira+Code&ext=contest" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janeshkrish&theme=algolia&no-bg=true&no-frame=true&margin-w=10" />
 </p>
 
 ---
