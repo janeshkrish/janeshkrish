@@ -60,6 +60,10 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeshkrish&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeshkrish&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+</p>
+
 ---
 
 ## 📈 Contribution Overview
@@ -93,25 +97,29 @@ I am open to:
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/janesh-krishna-r-725aa0295/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
-  </a>
+<a href="https://www.linkedin.com/in/janesh-krishna-r-725aa0295/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/janeshkrishna/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
-  </a>
+<a href="https://leetcode.com/janeshkrishna/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/janeshkrishna12">
-    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="40"/>
-  </a>
+<a href="https://www.hackerrank.com/janeshkrishna12">
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.credly.com/users/janesh-krishna-r">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" height="40"/>
-  </a>
+<a href="https://www.credly.com/users/janesh-krishna-r">
+  <img src="https://cdn.simpleicons.org/credly/FF6B00" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:janeshkrishna12@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
-  </a>
+<a href="mailto:janeshkrishna12@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="42"/>
+</a>
 
 </p>
 
