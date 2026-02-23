@@ -60,10 +60,6 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeshkrish&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeshkrish&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
-</p>
-
 ---
 
 ## 📈 Contribution Overview
