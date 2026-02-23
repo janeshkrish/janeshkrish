@@ -84,15 +84,27 @@ Currently Learning: System Design & Advanced Backend
 # 📫 Connect With Me
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/janesh-krishna-r-725aa0295/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="https://leetcode.com/janeshkrishna/">
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
-  <a href="janeshkrishna12@gmail.com">
+
+  <a href="https://www.hackerrank.com/janeshkrishna12">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="48" height="48"/>
+  </a>
+
+  <a href="https://www.credly.com/users/janesh-krishna-r"> 
+    <img src="https://img.icons8.com/color/96/credly.png" width="48" height="48"/>
+  </a>
+
+  <a href="mailto:janeshkrishna12@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
 </p>
 
 ---
