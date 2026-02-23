@@ -60,10 +60,8 @@ Currently Learning: System Design & Advanced Backend
 # 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/janeshkrishna?theme=dark&font=Fira+Code&ext=contest" />
 </p>
-
-> Replace `YOUR_LEETCODE_USERNAME`
 
 ---
 
