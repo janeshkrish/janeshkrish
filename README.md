@@ -40,7 +40,10 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 ## 🧠 DSA Progress
 
 <p align="center">
-  <img src="https://img.shields.io/github/directory-file-count/janeshkrish/DSA/java?label=Total%20DSA%20Problems&style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-9-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Easy-7-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medium-2-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
 </p>
 
 ---
