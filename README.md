@@ -96,18 +96,6 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/janeshkrishna?theme=dark&font=Fira+Code&ext=contest,heatmap" />
-</p>
-
----
-
-## 🧠 Competitive Programming
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/janeshkrishna?theme=dark&font=Fira+Code&ext=contest" />
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/janeshkrishna?theme=dark&ext=heatmap" />
 </p>
 
