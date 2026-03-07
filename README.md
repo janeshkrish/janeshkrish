@@ -93,10 +93,10 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 
 ---
 
-## 📈 Contribution Overview
+## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeshkrish&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/janeshkrishna?theme=dark&font=Fira+Code&ext=contest,heatmap" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 </p>
 
 <p align="center">
-  <img src="https://leetcode-heatmap.vercel.app/api?username=janeshkrishna&theme=dark&radius=10" />
+  <img src="https://leetcard.jacoblin.cool/janeshkrishna?theme=dark&ext=heatmap" />
 </p>
 
 ---
