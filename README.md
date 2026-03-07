@@ -107,6 +107,10 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
   <img src="https://leetcard.jacoblin.cool/janeshkrishna?theme=dark&font=Fira+Code&ext=contest" />
 </p>
 
+<p align="center">
+  <img src="https://leetcode-heatmap.vercel.app/api?username=janeshkrishna&theme=dark&radius=10" />
+</p>
+
 ---
 
 ## 📬 How To Reach Me
