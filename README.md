@@ -86,17 +86,20 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-
-<img src="https://streak-stats.demolab.com?user=janeshkrish&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://streak-stats.demolab.com?user=janeshkrish&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeshkrish&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeshkrish&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+---
 
+## 🔥 Contribution Heatmap
+
+<p align="center">
+<img src="https://ghchart.rshah.org/409ba5/janeshkrish" alt="GitHub Contribution Heatmap" />
 </p>
 
 ---
