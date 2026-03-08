@@ -86,13 +86,13 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Janesh Krishna GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="Janesh Krishna GitHub stats" />
 
-  <img src="https://streak-stats.demolab.com?user=janeshkrish&theme=tokyonight&hide_border=true&mode=daily&date_format=M%20j%5B,%20Y%5D" alt="Janesh Krishna GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=janeshkrish&theme=tokyonight&hide_border=true&mode=daily&utc_offset=5.5&cache_seconds=1800&date_format=M%20j%5B,%20Y%5D" alt="Janesh Krishna GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janeshkrish&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Janesh Krishna top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=janeshkrish&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Janesh Krishna top languages" />
 </p>
 
 ---
