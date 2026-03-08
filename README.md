@@ -87,9 +87,10 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&cache_seconds=0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=janeshkrish&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&cache_seconds=0" />
+<img height="170" src="https://streak-stats.demolab.com?user=janeshkrish&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeshkrish&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
