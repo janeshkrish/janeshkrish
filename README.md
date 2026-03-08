@@ -40,10 +40,14 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 ## 🧠 DSA Progress
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Solved-9-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Easy-7-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Medium-2-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Solved&query=%24.total&url=https%3A%2F%2Fraw.githubusercontent.com%2Fjaneshkrish%2Fjaneshkrish%2Fmain%2Fdsa-stats.json&labelColor=2f3545&color=00F7FF" alt="Total solved from DSA repo"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Easy&query=%24.easy&url=https%3A%2F%2Fraw.githubusercontent.com%2Fjaneshkrish%2Fjaneshkrish%2Fmain%2Fdsa-stats.json&labelColor=2f3545&color=84cc16" alt="Easy solved from DSA repo"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Medium&query=%24.medium&url=https%3A%2F%2Fraw.githubusercontent.com%2Fjaneshkrish%2Fjaneshkrish%2Fmain%2Fdsa-stats.json&labelColor=2f3545&color=eab308" alt="Medium solved from DSA repo"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Hard&query=%24.hard&url=https%3A%2F%2Fraw.githubusercontent.com%2Fjaneshkrish%2Fjaneshkrish%2Fmain%2Fdsa-stats.json&labelColor=2f3545&color=ef4444" alt="Hard solved from DSA repo"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/janeshkrish/DSA?style=for-the-badge&label=DSA%20Last%20Commit&labelColor=2f3545&color=7aa2f7" alt="Last commit in DSA repo"/>
 </p>
 
 ---
