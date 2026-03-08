@@ -87,6 +87,7 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
 <img src="https://streak-stats.demolab.com?user=janeshkrish&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -99,7 +100,7 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 ## 🔥 Contribution Heatmap
 
 <p align="center">
-<img src="https://ghchart.rshah.org/409ba5/janeshkrish" alt="GitHub Contribution Heatmap" />
+<img src="https://ghchart.rshah.org/0e1117/janeshkrish" />
 </p>
 
 ---
