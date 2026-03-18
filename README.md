@@ -101,14 +101,6 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 
 ---
 
-## 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/3b4261/janeshkrish" alt="Janesh Krishna contribution heatmap" />
-</p>
-
----
-
 ## 🧠 Competitive Programming
 
 <p align="center">
