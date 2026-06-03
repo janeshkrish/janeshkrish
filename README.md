@@ -20,7 +20,7 @@
 
 I am a **Full Stack Developer** passionate about building scalable web applications and mastering **Data Structures & Algorithms**.
 
-- 🎓 B.Tech Information Technology  
+- 🎓 B.Tech Information Technology.
 - 💡 Strong focus on backend architecture & system design  
 - 🧠 Daily DSA practice for interview mastery  
 - 🚀 Love building real-world problem solving applications  
