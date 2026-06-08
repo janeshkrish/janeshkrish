@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 About Me:
+## 🧑‍💻 About Me
 
 I am a **Full Stack Developer** passionate about building scalable web applications and mastering **Data Structures & Algorithms**.
 
