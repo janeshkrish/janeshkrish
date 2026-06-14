@@ -28,7 +28,7 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Focus:
 
 - Backend Engineering  
 - System Design & Scalable Architectures  
