@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Full Stack Developer** passionate about building scalable web applications and mastering **Data Structures & Algorithms**.
+I am a **Full Stack Developer** passionate about building scalable web applications and mastering **Data Structures & Algorithms**
 
 - 🎓 B.Tech Information Technology
 - 💡 Strong focus on backend architecture & system design  
@@ -28,7 +28,7 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 
 ---
 
-## 🎯 Career Focus:
+## 🎯 Career Focus
 
 - Backend Engineering  
 - System Design & Scalable Architectures  
@@ -111,7 +111,7 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 
 ## 📬 How To Reach Me
 
-I am open to:
+I am open to 
 
 - 💼 Internship & Backend Roles  
 - 🤝 Collaboration on meaningful projects  
@@ -149,5 +149,5 @@ I am open to:
 ---
 
 <p align="center">
-  <b>⚡ Consistency beats intensity ⚡</b>
+  <b>⚡ Consistency beats intensity ⚡.</b>
 </p>
