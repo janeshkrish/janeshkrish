@@ -32,7 +32,7 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 - Backend Engineering  
 - System Design & Scalable Architectures  
 - High-performance APIs  
-- Problem Solving & Competitive Programming  
+- Problem Solving & Competitive Programming  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="160" />
 
 ---
 
