@@ -2,7 +2,7 @@
 <!-- ===================== PREMIUM CYBER HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=240&section=header&text=Janesh%20Krishna%20R&fontSize=45&fontColor=00F7FF&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=240&section=header&text=Janesh%20Krishna%20R&fontSize=45&fontColor=00F7FF&animation=twinkling&fontAlignY=35" width="1000" height="300" />
 </p>
 
 <!-- ===================== TYPING INTRO ===================== -->
