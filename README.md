@@ -1,9 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="300">
-<!-- ===================== PREMIUM CYBER HEADER ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=240&section=header&text=Janesh%20Krishna%20R&fontSize=45&fontColor=00F7FF&animation=twinkling&fontAlignY=35" width="1000" height="300" />
-</p>
 
 <!-- ===================== TYPING INTRO ===================== -->
 <!-- ===================== TYPING INTRO ===================== -->
