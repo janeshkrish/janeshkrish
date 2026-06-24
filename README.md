@@ -26,24 +26,17 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 - 📈 Consistency-driven learning mindset  
 
 ---
-## 🎯 Career Focus
-<table width="100%">
-<tr>
-<td valign="top">
+<img align="right" alt="coding" width="180"
+src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif">
 
-- Backend Engineering
-- System Design & Scalable Architectures
-- High-performance APIs
-- Problem Solving & Competitive Programming
+<h2>🎯 Career Focus</h2>
 
-</td>
-
-<td align="right" width="1%">
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="180">
-</td>
-</tr>
-</table>
-
+<ul>
+  <li>Backend Engineering</li>
+  <li>System Design & Scalable Architectures</li>
+  <li>High-performance APIs</li>
+  <li>Problem Solving & Competitive Programming</li>
+</ul>
 ---
 
 ## 🧠 DSA Progress
