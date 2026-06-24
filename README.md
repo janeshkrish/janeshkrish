@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me:
+## 🧑‍💻 About Me
 
 I am a **Full Stack Developer** passionate about building scalable web applications and mastering **Data Structures & Algorithms**
 
@@ -29,7 +29,7 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 <img align="right" alt="coding" width="180"
 src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif">
 
-<h2>🎯 Career Focus</h2>
+## 🎯 Career Focus
 
 <ul>
   <li>Backend Engineering</li>
@@ -37,6 +37,7 @@ src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-
   <li>High-performance APIs</li>
   <li>Problem Solving & Competitive Programming</li>
 </ul>
+
 ---
 
 ## 🧠 DSA Progress
