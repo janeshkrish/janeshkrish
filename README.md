@@ -148,6 +148,5 @@ I am open to
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200" height ="30" />
-  <b>⚡ Consistency beats intensity ⚡.</b>
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200" height ="100" />
 </p>
