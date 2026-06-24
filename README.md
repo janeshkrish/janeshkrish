@@ -122,7 +122,7 @@ I am open to
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200">
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200" height ="100" />
 <a href="https://www.linkedin.com/in/janesh-krishna-r-725aa0295/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
