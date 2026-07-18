@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me 
+## 🧑‍💻 About Me :
 
 I am a **Full Stack Developer** passionate about building scalable web applications and mastering **Data Structures & Algorithms**
 
@@ -55,7 +55,7 @@ src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-
 
 ---
 
-## 💻 Tech Stack :
+## 💻 Tech Stack 
 
 <p align="center">
 
