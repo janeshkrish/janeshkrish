@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me 
+## 🧑‍💻 About Me : 
 
 I am a **Full Stack Developer** passionate about building scalable web applications and mastering **Data Structures & Algorithms**
 
@@ -55,7 +55,7 @@ src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-
 
 ---
 
-## 💻 Tech Stack 
+## 💻 Tech Stack :
 
 <p align="center">
 
@@ -90,7 +90,7 @@ src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics :
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="Janesh Krishna GitHub stats" />
@@ -104,7 +104,7 @@ src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠 Competitive Programming :
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/janeshkrishna?theme=dark&ext=heatmap" />
@@ -112,7 +112,7 @@ src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-
 
 ---
 
-## 📬 How To Reach Me:
+## 📬 How To Reach Me :
 
 I am open to 
 
@@ -123,7 +123,7 @@ I am open to
 
 ---
 
-## 🌐 Connect With Me 
+## 🌐 Connect With Me :
 
 
 <p align="center">
